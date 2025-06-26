@@ -1,5 +1,6 @@
 # meu-mario-kard
 🏎️ Mini Jogo de Corrida em JavaScript
+
 📋 Descrição
 Este é um mini jogo de corrida feito em JavaScript puro, que simula uma competição entre personagens clássicos como Mario, Luigi e Peach. Cada rodada representa um tipo de pista (reta, curva ou confronto) que exige um atributo diferente dos jogadores (velocidade, manobrabilidade ou poder). O jogo roda no terminal e exibe os resultados de cada rodada, declarando o vencedor ao final.
 
