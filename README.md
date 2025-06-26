@@ -122,5 +122,5 @@ Modo multiplayer com entrada via teclado.
 Persistência de pontuação (localStorage ou backend).
 
 🧠 Autor e Créditos
-Criado por [Seu Nome Aqui]
+Criado por Gelson Bario
 Inspirado nos jogos clássicos da Nintendo como Mario Kart.
