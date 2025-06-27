@@ -5,6 +5,7 @@
 Este é um mini jogo de corrida feito em JavaScript puro, que simula uma competição entre personagens clássicos como Mario, Luigi e Peach. Cada rodada representa um tipo de pista (reta, curva ou confronto) que exige um atributo diferente dos jogadores (velocidade, manobrabilidade ou poder). O jogo roda no terminal e exibe os resultados de cada rodada, declarando o vencedor ao final.
 
 🚀 Funcionalidades
+
 🎲 Sistema de dados aleatório para gerar imprevisibilidade.
 
 🛣️ Tipos variados de pista que exigem diferentes habilidades.
@@ -16,6 +17,7 @@ Este é um mini jogo de corrida feito em JavaScript puro, que simula uma competi
 ✨ Estrutura modular e fácil de expandir com novos jogadores.
 
 🧪 Como Funciona
+
 O jogo é composto por 5 rodadas. A cada rodada:
 
 Um tipo de pista é escolhido aleatoriamente:
@@ -113,14 +115,7 @@ js
 Copiar
 Editar
 for (let round = 1; round <= 5; round++) {
-📌 Possíveis Melhorias Futuras
-Interface gráfica (web) com animações.
 
-Sistema de níveis e progressão de atributos.
-
-Modo multiplayer com entrada via teclado.
-
-Persistência de pontuação (localStorage ou backend).
 
 🧠 Autor e Créditos
 Criado por Gelson Bario
